@@ -42,7 +42,7 @@
 
 根据你电脑所运行的操作系统，选择相应的链接继续阅读指南：
 
-- [Windows](./windows)
-- [macOS（暂未编写）](./macos)
+- [Windows](/guide/windows/)
+- [macOS（暂未编写）](/guide/macos/)
 
 由于Linux操作的复杂性，目前不考虑编入指南。
