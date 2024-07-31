@@ -15,7 +15,7 @@ export default defineConfig({
       {
         text: '指南',
         items: [
-          { text: '一些基础知识', link: '/guide/' },
+          { text: '基础知识入门 🎉', link: '/guide/' },
           { text: 'Windows', link: '/guide/windows/' },
           { text: 'macOS', link: '/guide/macos/' }
         ]
