@@ -11,14 +11,17 @@ hero:
       link: /guide
     - theme: alt
       text: 为指南做贡献
-      link: /api-examples
+      link: /contribute
 
 features:
-  - title: 易懂
+  - icon: 🤔
+    title: 易懂
     details: 为初学者而设计，让所有人都能看懂
-  - title: 便捷
+  - icon: ⚡
+    title: 便捷
     details: 响应式设计，手机也能轻松阅读
-  - title: 现代
+  - icon: 🏙️
+    title: 现代
     details: 贴近生活使用，避免过时的信息
 ---
 
